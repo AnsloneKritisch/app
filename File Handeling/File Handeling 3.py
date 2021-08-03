@@ -1,0 +1,12 @@
+"""f = open("anshu.txt")
+print(f.readline())
+b = f.tell()
+print(b)
+print(f.readline())
+a = f.tell()
+print(a)
+print(f.readline())
+f.seek(10)
+print(f.readline())
+print(a)
+""""""
